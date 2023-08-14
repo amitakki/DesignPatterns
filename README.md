@@ -1,6 +1,3 @@
-Certainly, here's a generated README content for your GitHub repository on "Design Patterns for Object-Oriented Programming (OOP) by Gang of Four (GoF)":
-
-```markdown
 # Design Patterns for Object-Oriented Programming (OOP) by Gang of Four (GoF)
 
 Welcome to the "Design Patterns by GoF" GitHub repository! This repository serves as a comprehensive resource for understanding and implementing the classic design patterns introduced by the Gang of Four in their influential book "Design Patterns: Elements of Reusable Object-Oriented Software."
@@ -79,6 +76,3 @@ This repository is licensed under the [MIT License](LICENSE), allowing you to us
 ---
 
 Start exploring the world of design patterns with the "Design Patterns by GoF" repository. Enhance your understanding of object-oriented design principles and take your software development skills to the next level. Happy coding!
-```
-
-Remember to create the corresponding files (like `CONTRIBUTING.md` and `LICENSE`) and tailor the content to your specific needs before adding this README to your GitHub repository.
