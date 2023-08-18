@@ -1,5 +1,6 @@
 package com.designpatterns.structural.bridge;
 
+// Refined Abstraction
 public class AdvancedRemoteControl extends RemoteControl {
 
     private boolean mute = false;

@@ -1,5 +1,6 @@
 package com.designpatterns.structural.bridge;
 
+// Client Code
 public class BridgeMain {
     public static void main(String[] args) {
         Device tv = new TV();

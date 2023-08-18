@@ -2,7 +2,6 @@ package com.designpatterns.structural.composite;
 
 // Client code
 public class CompositeMain {
-
     public static void main(String[] args) {
         File file1 = new File("file1.txt");
         File file2 = new File("file2.txt");
